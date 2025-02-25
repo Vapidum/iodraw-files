@@ -95,6 +95,9 @@
             <mxPoint x="470" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HhG-X1NlV4G3a9p5pny8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PB_coEp7ssiJVILYqlN7-26" target="HhG-X1NlV4G3a9p5pny8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PB_coEp7ssiJVILYqlN7-26" value="清洗、转换、&lt;div&gt;整合&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="208" width="113" height="60" as="geometry" />
         </mxCell>
