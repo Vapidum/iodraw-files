@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="HhG-X1NlV4G3a9p5pny8-6" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="24" y="6" width="546" height="421" as="geometry" />
+          <mxGeometry x="313" y="247" width="546" height="421" as="geometry" />
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.003;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;" parent="HhG-X1NlV4G3a9p5pny8-6" source="pqFnr75_zlcsuSiCE3bN-5" target="pqFnr75_zlcsuSiCE3bN-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-0" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;rounded=1;" parent="HhG-X1NlV4G3a9p5pny8-6" vertex="1">
-          <mxGeometry x="76.37500000000001" y="161.66235867446392" width="42.21130160840933" height="75.37504875886526" as="geometry" />
+          <mxGeometry x="76.38" y="161.66" width="83.63" height="149.34" as="geometry" />
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-1" value="&lt;b&gt;DeepSeek&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;rounded=1;" parent="HhG-X1NlV4G3a9p5pny8-6" vertex="1">
           <mxGeometry x="274.21875000000006" width="85.61726269630192" height="53.942857696935164" as="geometry" />
