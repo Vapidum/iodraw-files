@@ -114,8 +114,8 @@
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="397" y="646" width="120" height="60" as="geometry" />
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Kettle ：侧重于批处理模式的数据抽取、转换和加载&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="191" y="504" width="228" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
