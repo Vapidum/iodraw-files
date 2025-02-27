@@ -114,7 +114,7 @@
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhgwS0i2TXUDEkIQdAuc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BhgwS0i2TXUDEkIQdAuc-3" value="客户是否需要实时查看报表，例如物料追踪表，需要的时候直接在平台中点开查看" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="252" y="494" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
