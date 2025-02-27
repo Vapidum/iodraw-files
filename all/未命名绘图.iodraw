@@ -114,7 +114,7 @@
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhgwS0i2TXUDEkIQdAuc-3" value="&lt;ol style=&quot;padding-left: 16px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;客户是否需要实时查看报表，例如物料追踪表，需要的时候直接在平台中点开查看&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;从GVE的使用情况得知，每次计算分配物料耗时较长，最近一次更新也要几分钟，&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;我们想象一个场景，当用户点击一次报表，需要几分钟才可以正常显示，用户是否可以接受，如果不可以，我们应该如何优化&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BhgwS0i2TXUDEkIQdAuc-3" value="&lt;ol style=&quot;padding-left: 16px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;客户是否需要实时查看报表，例如物料追踪表，需要的时候直接在平台中点开查看&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;从GVE的使用情况得知，每次计算分配物料耗时较长，最近一次更新也要几分钟，&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;我们想象一个场景，当用户点击一次报表，需要几分钟才可以正常显示，用户是否可以接受，如果不可以，我们应该如何优化&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;labelBackgroundColor=#CCFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="252" y="494" width="317" height="200" as="geometry" />
         </mxCell>
       </root>
