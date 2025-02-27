@@ -60,8 +60,8 @@
             <mxPoint x="101.72498512268069" y="288.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HhG-X1NlV4G3a9p5pny8-6">
-          <mxGeometry x="250" y="126" width="120" height="60" as="geometry" />
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-6" value="API&lt;div&gt;数据库&lt;/div&gt;&lt;div&gt;消息队列&lt;/div&gt;&lt;div&gt;文件交换（共享存储）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HhG-X1NlV4G3a9p5pny8-6">
+          <mxGeometry x="250" y="126" width="126" height="270" as="geometry" />
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="507.0025" y="162.96941520467837" width="327.4375000000001" height="224.8615984405458" as="geometry" />
