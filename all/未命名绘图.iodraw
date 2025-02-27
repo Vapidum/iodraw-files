@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="808" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -113,6 +113,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BhgwS0i2TXUDEkIQdAuc-4" value="&lt;ol style=&quot;padding-left: 16px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;客户是否需要实时查看报表，例如物料追踪表，需要的时候直接在平台中点开查看&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;从GVE的使用情况得知，每次计算分配物料耗时较长，最近一次更新也要几分钟，&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Georgia&quot;&gt;我们想象一个场景，当用户点击一次报表，需要几分钟才可以正常显示，用户是否可以接受，如果不可以，我们应该如何优化&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;labelBackgroundColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="-125.06" width="317" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BhgwS0i2TXUDEkIQdAuc-5" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Kettle ：&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;侧重于批处理模式的数据抽取、转换和加载&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;pingfang SC, helvetica neue, arial, hiragino sans gb, microsoft yahei ui, microsoft yahei, simsun, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;实时数据处理需要大量定制化开发&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-82" y="-271" width="287" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
