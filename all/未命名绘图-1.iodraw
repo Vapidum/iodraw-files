@@ -114,7 +114,7 @@
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhgwS0i2TXUDEkIQdAuc-6" value="对数据量非常大的接受量" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="BhgwS0i2TXUDEkIQdAuc-6" value="对于数据量非常大的对象来说，大模型分词得到的token量也是非常大的，最终调用费用也会很高" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="864" y="27" width="164" height="154" as="geometry" />
         </mxCell>
       </root>
