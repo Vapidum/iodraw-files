@@ -180,6 +180,9 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-23" value="历史数据如何处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="712" y="685" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-24" value="未来的改善措施、方法、方案" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="818" y="773" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
