@@ -135,6 +135,11 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef6sZmrOSRk99PADkwIx-5" target="Ef6sZmrOSRk99PADkwIx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ef6sZmrOSRk99PADkwIx-10">
+          <mxGeometry x="-0.043" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-5" value="DeepSeek" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="659" width="152" height="140" as="geometry" />
         </mxCell>
@@ -196,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-27" value="启迈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102" y="1088" width="120" height="60" as="geometry" />
+          <mxGeometry x="54" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
