@@ -145,7 +145,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="413" y="1134.38" width="30" height="60" as="geometry" />
+          <mxGeometry x="413" y="1134.38" width="30" height="59.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
