@@ -160,7 +160,7 @@
           <mxGeometry x="660.35" y="868.38" width="152" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-16" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="717" y="1041" width="60" height="30" as="geometry" />
+          <mxGeometry x="707.88" y="923.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef6sZmrOSRk99PADkwIx-18" target="Ef6sZmrOSRk99PADkwIx-20">
           <mxGeometry relative="1" as="geometry" />
@@ -182,6 +182,9 @@
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-24" value="未来的改善措施、方法、方案" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="818" y="773" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-25" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="777" y="1101" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
