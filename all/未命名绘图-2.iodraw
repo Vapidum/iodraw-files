@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-4" value="私有数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="24" y="868.38" width="152" height="140" as="geometry" />
+          <mxGeometry x="51" y="877" width="152" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef6sZmrOSRk99PADkwIx-5" target="Ef6sZmrOSRk99PADkwIx-6">
           <mxGeometry relative="1" as="geometry" />
@@ -192,7 +192,7 @@
             <mxPoint x="1030" y="948" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-27" value="启迈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102" y="1088" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
