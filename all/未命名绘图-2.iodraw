@@ -147,8 +147,8 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="1134.38" width="30" height="59.62" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-12" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="532" y="991" width="60" height="30" as="geometry" />
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-12" value="基础资料" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="234" y="899" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
