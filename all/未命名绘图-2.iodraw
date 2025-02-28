@@ -150,8 +150,11 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-12" value="基础资料" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="234" y="899" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-13" value="基础资料" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-13" value="工具" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454" y="821" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-14" value="AI平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="362" y="878.38" width="152" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
