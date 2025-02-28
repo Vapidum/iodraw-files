@@ -209,7 +209,7 @@
           <mxGeometry x="54" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-31" value="向量数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="412" y="1424" width="120" height="134" as="geometry" />
+          <mxGeometry x="504" y="1455" width="120" height="134" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-32" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="76" y="1420" width="120" height="60" as="geometry" />
@@ -226,9 +226,14 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-36" value="OA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="81" y="1704" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-38" value="客户服务支持" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="263" y="1322" width="120" height="80" as="geometry" />
         </mxCell>
+        <UserObject label="https://mmbiz.qpic.cn/mmbiz_png/nQuocdmau4gy2iaQTS67LFEEXHH3SiaAyg5SakR5gmM2aXcvRReKcFso4Nv25hRNeAicSCzTP0ibC9PRMNco1btibDQ/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" link="https://mmbiz.qpic.cn/mmbiz_png/nQuocdmau4gy2iaQTS67LFEEXHH3SiaAyg5SakR5gmM2aXcvRReKcFso4Nv25hRNeAicSCzTP0ibC9PRMNco1btibDQ/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" id="Ef6sZmrOSRk99PADkwIx-39">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="988.1428745814733" y="1416.5713588169647" width="550" height="51" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
