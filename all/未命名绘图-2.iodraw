@@ -211,8 +211,11 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-31" value="向量数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293" y="1345" width="120" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-32" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="83" y="1282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-33" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93" y="1292" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
