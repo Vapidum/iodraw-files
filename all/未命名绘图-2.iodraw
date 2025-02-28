@@ -209,22 +209,25 @@
           <mxGeometry x="54" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-31" value="向量数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="419" y="1286" width="120" height="134" as="geometry" />
+          <mxGeometry x="412" y="1424" width="120" height="134" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-32" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="83" y="1282" width="120" height="60" as="geometry" />
+          <mxGeometry x="76" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-33" value="启迈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88" y="1376" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="1514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-34" value="MES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88" y="1466" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="1604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-35" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88" y="1194" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="1332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-36" value="OA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88" y="1566" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="1704" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="263" y="1322" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
