@@ -132,8 +132,11 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-4" value="私有数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="322" y="611" width="152" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef6sZmrOSRk99PADkwIx-5" target="Ef6sZmrOSRk99PADkwIx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-5" value="DeepSeek" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508.35" y="399" width="152" height="140" as="geometry" />
+          <mxGeometry x="650" y="401.62" width="152" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-6" value="AI平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="611" width="152" height="140" as="geometry" />
@@ -142,7 +145,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="702" y="877" width="30" height="60" as="geometry" />
+          <mxGeometry x="711" y="877" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
