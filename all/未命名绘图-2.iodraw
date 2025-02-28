@@ -183,8 +183,8 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-24" value="未来的改善措施、方法、方案" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="818" y="773" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-25" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="777" y="1101" width="60" height="30" as="geometry" />
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-25" value="潜在的/可能会发生的" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="718" y="1104.38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
