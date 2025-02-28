@@ -177,6 +177,9 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-22" value="好的变更好" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="999" y="998" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-23" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="712" y="685" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
