@@ -162,11 +162,17 @@
         <mxCell id="Ef6sZmrOSRk99PADkwIx-16" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="717" y="1041" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef6sZmrOSRk99PADkwIx-18" target="Ef6sZmrOSRk99PADkwIx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ef6sZmrOSRk99PADkwIx-18" value="好的" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="923.38" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ef6sZmrOSRk99PADkwIx-19" value="答案呈现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-19" value="不好的" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="703" y="771" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef6sZmrOSRk99PADkwIx-20" value="好的" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="923.38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
