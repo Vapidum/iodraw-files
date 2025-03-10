@@ -10,6 +10,9 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-2" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qmTerlBadjkIAavl4Y-F-3" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
