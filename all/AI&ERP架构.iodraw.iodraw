@@ -7,19 +7,19 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-1" value="用户层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-2" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-2" value="接入层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-3" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-3" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
