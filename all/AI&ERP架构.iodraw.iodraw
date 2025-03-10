@@ -16,8 +16,11 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="120" height="300" as="geometry" />
+        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
