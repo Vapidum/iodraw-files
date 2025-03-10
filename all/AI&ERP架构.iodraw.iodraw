@@ -28,6 +28,9 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-8" value="启迈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="145" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qmTerlBadjkIAavl4Y-F-9" value="启迈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="145" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
