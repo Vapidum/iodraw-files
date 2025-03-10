@@ -14,13 +14,13 @@
           <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设置" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="601" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="401" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="501" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="360" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="350" y="220" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-12" value="云厂商AI平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="235" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
