@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="HhG-X1NlV4G3a9p5pny8-6" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="29" y="-5" width="546" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HhG-X1NlV4G3a9p5pny8-6" source="pqFnr75_zlcsuSiCE3bN-0" target="E0O4RcpLb8wfLjjSzm0c-6">
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HhG-X1NlV4G3a9p5pny8-6" source="pqFnr75_zlcsuSiCE3bN-0" target="E0O4RcpLb8wfLjjSzm0c-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-0" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;rounded=1;" parent="HhG-X1NlV4G3a9p5pny8-6" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="PB_coEp7ssiJVILYqlN7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="HhG-X1NlV4G3a9p5pny8-6" source="pqFnr75_zlcsuSiCE3bN-7" target="pqFnr75_zlcsuSiCE3bN-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-6" value="&lt;b&gt;API&lt;/b&gt;&lt;div&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;消息队列&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;文件交换（共享存储）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ETL工具（&lt;/b&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; text-align: start; white-space-collapse: preserve;&quot;&gt;Kettle &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HhG-X1NlV4G3a9p5pny8-6">
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-6" value="&lt;b&gt;API&lt;/b&gt;&lt;div&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;消息队列&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;文件交换（共享存储）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ETL工具（&lt;/b&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; text-align: start; white-space-collapse: preserve;&quot;&gt;Kettle &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HhG-X1NlV4G3a9p5pny8-6" vertex="1">
           <mxGeometry x="250" y="126" width="126" height="270" as="geometry" />
         </mxCell>
         <mxCell id="pqFnr75_zlcsuSiCE3bN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="pqFnr75_zlcsuSiCE3bN-1" value="&lt;b&gt;DeepSeek&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="556.9987500000001" y="21.000000000000004" width="85.61726269630192" height="53.942857696935164" as="geometry" />
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E0O4RcpLb8wfLjjSzm0c-6" target="pqFnr75_zlcsuSiCE3bN-5">
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E0O4RcpLb8wfLjjSzm0c-6" target="pqFnr75_zlcsuSiCE3bN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PB_coEp7ssiJVILYqlN7-11" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -114,7 +114,7 @@
             <mxPoint x="130.7249851226807" y="308.70915177551626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0O4RcpLb8wfLjjSzm0c-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Kettle ：&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;侧重于批处理模式的数据抽取、转换和加载&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;pingfang SC, helvetica neue, arial, hiragino sans gb, microsoft yahei ui, microsoft yahei, simsun, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;实时数据处理需要大量定制化开发&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="E0O4RcpLb8wfLjjSzm0c-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Kettle ：&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;pingfang SC&amp;quot;, &amp;quot;helvetica neue&amp;quot;, arial, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, sans-serif; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;侧重于批处理模式的数据抽取、转换和加载&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;pingfang SC, helvetica neue, arial, hiragino sans gb, microsoft yahei ui, microsoft yahei, simsun, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;实时数据处理需要大量定制化开发&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="191" y="504" width="287" height="247" as="geometry" />
         </mxCell>
       </root>
