@@ -16,10 +16,10 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="809.5" width="120" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="520" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="687" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-12" value="ERP厂商" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="480" y="119" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="InOwZ-03mWmjwuPUtYtm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="350" y="521" width="260" height="119" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-4" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
