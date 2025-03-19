@@ -119,16 +119,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-31" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="366" y="550" width="64" height="30" as="geometry" />
+          <mxGeometry x="380" y="330" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-32" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="474" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-33" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="366" y="601" width="64" height="30" as="geometry" />
+          <mxGeometry x="380" y="381" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-34" value="接口服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="601" width="60" height="30" as="geometry" />
+          <mxGeometry x="474" y="381" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
