@@ -44,16 +44,16 @@
           <mxGeometry x="366" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-5" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="467" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-6" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-7" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="366" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-8" value="接口服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-9" value="监控服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="600" width="80" height="30" as="geometry" />
