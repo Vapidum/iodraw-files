@@ -14,7 +14,7 @@
           <mxGeometry x="190" y="310" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="190" y="816" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="809.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="190" y="520" width="120" height="120" as="geometry" />
