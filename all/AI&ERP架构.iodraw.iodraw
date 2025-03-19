@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8f2RsiH6mC_1YeBUwnVk">
-    <mxGraphModel dx="600" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,18 @@
             <mxPoint x="490" y="763.5" as="sourcePoint" />
             <mxPoint x="490" y="809.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-31" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="366" y="550" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-32" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-33" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="366" y="601" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-34" value="接口服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="601" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
