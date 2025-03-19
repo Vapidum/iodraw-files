@@ -13,7 +13,7 @@
         <mxCell id="qmTerlBadjkIAavl4Y-F-3" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设置" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
+        <mxCell id="qmTerlBadjkIAavl4Y-F-4" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-5" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
