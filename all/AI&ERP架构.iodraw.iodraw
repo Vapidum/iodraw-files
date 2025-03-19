@@ -88,7 +88,7 @@
         <mxCell id="InOwZ-03mWmjwuPUtYtm-23" value="权限控制" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;textDirection=ltr;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="310" width="60" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="InOwZ-03mWmjwuPUtYtm-26" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qmTerlBadjkIAavl4Y-F-7">
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-26" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.402;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qmTerlBadjkIAavl4Y-F-7" target="InOwZ-03mWmjwuPUtYtm-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="340" as="sourcePoint" />
             <mxPoint x="940" y="290" as="targetPoint" />
