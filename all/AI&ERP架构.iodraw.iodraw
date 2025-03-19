@@ -122,13 +122,13 @@
           <mxGeometry x="386" y="340" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-32" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="525" y="340" width="70" height="40" as="geometry" />
+          <mxGeometry x="520" y="330" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-33" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="386" y="400" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-34" value="接口服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="525" y="410" width="70" height="40" as="geometry" />
+          <mxGeometry x="520" y="400" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
