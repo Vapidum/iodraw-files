@@ -20,7 +20,7 @@
           <mxGeometry x="190" y="520" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-6" value="存储层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="190" y="687" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="687" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="qmTerlBadjkIAavl4Y-F-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350" y="208" width="420" height="60" as="geometry" />
