@@ -73,8 +73,11 @@
         <mxCell id="InOwZ-03mWmjwuPUtYtm-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="780.5" width="360" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="InOwZ-03mWmjwuPUtYtm-16" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="80" height="30" as="geometry" />
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-16" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="802" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-17" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
