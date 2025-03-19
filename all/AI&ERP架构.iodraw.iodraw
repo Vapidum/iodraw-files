@@ -76,7 +76,7 @@
         <mxCell id="InOwZ-03mWmjwuPUtYtm-17" value="硬盘存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="802" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="InOwZ-03mWmjwuPUtYtm-18" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="InOwZ-03mWmjwuPUtYtm-18" value="网络" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="802" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="InOwZ-03mWmjwuPUtYtm-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
